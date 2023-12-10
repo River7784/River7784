@@ -31,7 +31,7 @@
     <p><strong>Development Tools</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-        <img src="https://img.shields.io/badge/VS Code-CB2E6D?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+        <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
         <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
         <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
